@@ -14,13 +14,13 @@ Um projeto desenvolvido no início da formação Alura + Oracle, como um desafio
 
     Validação de apenas letras minúsculas sem acentos
 
-🔑 Chaves de Criptografia
-Letra Original	Código
-e	              enter
-i	              imes
-a	              ai
-o	              ober
-u	              ufat
+| Letra Original | Código |
+|----------------|--------|
+| e              | enter  |
+| i              | imes   |
+| a              | ai     |
+| o              | ober   |
+| u              | ufat   |
 
 Exemplo:
 "alura" → "aillufatrai" (ai + l + ufat + r + ai)
@@ -36,24 +36,24 @@ Exemplo:
 
     Copie o resultado com o botão dedicado
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-    HTML5
-
-    CSS3
-
-    JavaScript
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 📁 Estrutura do Projeto
 
+```plaintext
 encriptador/
-├── index.html          # Estrutura principal
-├── style.css           # Estilos completos
-├── script.js           # Lógica de criptografia
-├── imagens/            # Assets visuais
+├── index.html
+├── style.css
+├── script.js
+├── assets/
 │   ├── logo-alura.png
 │   └── boneco.png
-└── README.md           # Este arquivo
+└── README.md
+```
 
 🌟 Recursos Extras
 
